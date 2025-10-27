@@ -24,3 +24,10 @@ It allows users to view real-time cryptocurrency data, including current prices,
 - **State Management:** React Hooks (useState, useEffect)
 - **Icons:** React Icons or Lucide React
 
+## 🌐 Website Preview
+
+### 🏠 Home Page
+![Home Page](public/Screenshot%202025-10-27%20at%2022.08.20.png)
+
+### 📊 Coin Details Page
+![Coin Details](public/Screenshot%202025-10-27%20at%2022.08.44.png)

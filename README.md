@@ -31,3 +31,9 @@ It allows users to view real-time cryptocurrency data, including current prices,
 
 ### 📊 Coin Details Page
 ![Coin Details](public/Screenshot%202025-10-27%20at%2022.08.44.png)
+
+
+
+## 🌍 Live Demo
+
+🔗 **Visit here:** [Diet Planner Website](https://bitcrypto.netlify.app)

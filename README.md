@@ -36,4 +36,4 @@ It allows users to view real-time cryptocurrency data, including current prices,
 
 ## 🌍 Live Demo
 
-🔗 **Visit here:** [Diet Planner Website](https://bitcrypto.netlify.app)
+🔗 **Visit here:** [Crypto Place](https://bitcrypto.netlify.app)
